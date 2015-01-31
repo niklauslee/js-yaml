@@ -1,0 +1,6 @@
+node:
+  kind: node
+  geom: [10, 10, 100, 100]
+  attrs:
+    - attr1
+    - attr2
